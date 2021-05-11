@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class csvReadWriteData {
+public class CSVReadWriteData {
     public static void main(String[] args) {
         List<StockData> data = new ArrayList<StockData>();
         for(int i=0;i< args.length;i++)
